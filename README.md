@@ -1,4 +1,4 @@
-# Python List Operations Exercise
+# Python List Operations Exercises
 
 # Exercice 1  
 
